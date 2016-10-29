@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Enigma</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Ingrese dirección del servidor</string>
+    <string name="prompt_password">Puerto</string>
+    <string name="action_sign_in">Conectar</string>
+    <string name="action_sign_in_short">Registrar</string>
+    <string name="error_invalid_email">IP no válida</string>
+    <string name="error_invalid_password">Este puerto no es válido</string>
+    <string name="error_incorrect_password">IP o puerto inválido</string>
+    <string name="error_field_required">Campo obligatorio</string>
+    <string name="permission_rationale">"Los permisos de contactos son necesarios para predecir IP."
+    </string>
+</resources>
